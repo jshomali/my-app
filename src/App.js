@@ -1,24 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Home from './Home.js';
+import Nav from './Nav.js';
+import Footer from './Footer.js';
+import Hometest from './Hometest.js';
+import fontawesome from '@fortawesome/fontawesome';
+import brands from '@fortawesome/fontawesome-free-brands';
+import faAngleDown from '@fortawesome/fontawesome-free-solid/faAngleDown';
+import faAngleRight from '@fortawesome/fontawesome-free-solid/faAngleRight';
+
+fontawesome.library.add(brands, faAngleDown, faAngleRight)
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Nav/>
+      <Hometest/>
+      <Footer/>
     </div>
   );
 }
