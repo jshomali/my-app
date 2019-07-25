@@ -271,7 +271,7 @@ html {
   position: relative;
   background: #424041;
 
-  width: 100%;
+  width: 101%;
   position: relative;
   margin: 0 -0.01rem;
   padding: .25rem 0.01rem 1rem;
@@ -377,14 +377,33 @@ html {
 .home-parallax {
   position: relative;
   background-color: white;
-  font-size: 100%;
-  text-align: center;
+  font-size: 80%;
+  /* text-align: center; */
   bottom: 50px;
+  padding: 15px;
 }
 
 .parallax-two {
   background-image: url("./Assets/book.png");
-  min-height: 700px;
+  width: 50%;
+  height: 50%;
+  left: 0px;
+  position: absolute;
+  /* background-attachment: fixed; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10px 10px;
+}
+
+.parallax-three {
+  background-image: url("./Assets/concert.jpg");
+  width: 50%;
+  height: 50%;
+  /* min-height: 350px; */
+  left: 620px;
+  top: 1574px;
+  position: absolute;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -392,25 +411,100 @@ html {
   padding: 10px 10px;
 }
 
+.head-parallax {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 
 .main-text-two {
   /* height: 600px; */
   /* color: white; */
   font-size: 100%;
-  position: absolute;
-  top: 200%;
+  position: relative;
+  width: 51.5%;
+  left: 620px;
+  /* top: 200%; */
   background-color: lightgrey;
   opacity: 0.8;
-
 }
 
+.main-text-three {
+  /* height: 600px; */
+  /* color: white; */
+  font-size: 99%;
+  position: relative;
+  width: 48.5%;
+  left: 0px;
+  top: 45px;
+  /* top: 207.8%; */
+  background-color: lightgrey;
+  opacity: 0.8;
+}
+
+
+.grid2x2 {
+  min-height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.grid2x2 > div {
+  display: flex;
+  flex-basis: calc(50% - 40px);
+  justify-content: center;
+  flex-direction: column;
+}
+.grid2x2 > div > div {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.box {
+  margin: 0px;
+  padding: 20px;
+}
+
+.box1 {
+  background-image: url("./Assets/book.png");
+  min-height: 300px;
+  /* position: absolute; */
+  /* background-attachment: fixed; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* padding: 10px 10px; */
+}
+
+.box2 {
+  background-color: #472683;
+  color: white;
+  font-size: 80%;
+}
+
+.box3 {
+  background-color: #FF00BF;
+  color: white;
+  font-size: 80%;
+}
+
+.box4 {
+  background-image: url("./Assets/lyft2.jpg");
+  min-height: 220px;
+  /* position: absolute; */
+  /* background-attachment: fixed; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* padding: 10px 10px; */
+}
 
 #button {
   text-decoration: none;
   color: #184b53;
 }
-
-
 
 .Collapsible__contentInner {
 	 padding: 10px;
@@ -505,6 +599,22 @@ html {
   }
   .main-text-two {
     position: relative;
+  }
+  .box1 {
+    position: relative;
+    min-width: 90%;
+  }
+  .box2 {
+    position: relative;
+    min-width: 90%;
+  }
+  .box3 {
+    position: relative;
+    min-width: 90%;
+  }
+  .box4 {
+    position: relative;
+    min-width: 90%;
   }
 }
 
