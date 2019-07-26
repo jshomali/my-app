@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.8295f50c.chunk.css",
-    "main.js": "/my-app/static/js/main.8931b772.chunk.js",
-    "main.js.map": "/my-app/static/js/main.8931b772.chunk.js.map",
+    "main.css": "/my-app/static/css/main.391b932b.chunk.css",
+    "main.js": "/my-app/static/js/main.98969fe5.chunk.js",
+    "main.js.map": "/my-app/static/js/main.98969fe5.chunk.js.map",
     "runtime~main.js": "/my-app/static/js/runtime~main.6019dd84.js",
     "runtime~main.js.map": "/my-app/static/js/runtime~main.6019dd84.js.map",
     "static/js/2.32bb4ff9.chunk.js": "/my-app/static/js/2.32bb4ff9.chunk.js",
     "static/js/2.32bb4ff9.chunk.js.map": "/my-app/static/js/2.32bb4ff9.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.a321153b803a4eddf85aa4fe0dd3779b.js": "/my-app/precache-manifest.a321153b803a4eddf85aa4fe0dd3779b.js",
+    "precache-manifest.6ae438dc59d8f498df65e02810bd1ddb.js": "/my-app/precache-manifest.6ae438dc59d8f498df65e02810bd1ddb.js",
     "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.8295f50c.chunk.css.map": "/my-app/static/css/main.8295f50c.chunk.css.map",
+    "static/css/main.391b932b.chunk.css.map": "/my-app/static/css/main.391b932b.chunk.css.map",
     "static/media/App.css": "/my-app/static/media/lyft2.df46793e.jpg",
     "static/media/whats_next.svg": "/my-app/static/media/whats_next.6f1ccb6d.svg"
   }
