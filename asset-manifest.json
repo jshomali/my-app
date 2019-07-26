@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.ab1b4557.chunk.css",
+    "main.css": "/my-app/static/css/main.1ab8b448.chunk.css",
     "main.js": "/my-app/static/js/main.34d4bc5b.chunk.js",
     "main.js.map": "/my-app/static/js/main.34d4bc5b.chunk.js.map",
     "runtime~main.js": "/my-app/static/js/runtime~main.6019dd84.js",
@@ -8,9 +8,9 @@
     "static/js/2.32bb4ff9.chunk.js": "/my-app/static/js/2.32bb4ff9.chunk.js",
     "static/js/2.32bb4ff9.chunk.js.map": "/my-app/static/js/2.32bb4ff9.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.6e99b98bab8d59880a77b0cec1ea5c57.js": "/my-app/precache-manifest.6e99b98bab8d59880a77b0cec1ea5c57.js",
+    "precache-manifest.59f54167c4ff0196355f8b2c1486681c.js": "/my-app/precache-manifest.59f54167c4ff0196355f8b2c1486681c.js",
     "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.ab1b4557.chunk.css.map": "/my-app/static/css/main.ab1b4557.chunk.css.map",
+    "static/css/main.1ab8b448.chunk.css.map": "/my-app/static/css/main.1ab8b448.chunk.css.map",
     "static/media/App.css": "/my-app/static/media/lyft2.df46793e.jpg",
     "static/media/whats_next.svg": "/my-app/static/media/whats_next.6f1ccb6d.svg"
   }
