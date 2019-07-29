@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.df16f574.chunk.css",
+    "main.css": "/my-app/static/css/main.55686e04.chunk.css",
     "main.js": "/my-app/static/js/main.2563c568.chunk.js",
     "main.js.map": "/my-app/static/js/main.2563c568.chunk.js.map",
     "runtime~main.js": "/my-app/static/js/runtime~main.6019dd84.js",
@@ -8,9 +8,9 @@
     "static/js/2.32bb4ff9.chunk.js": "/my-app/static/js/2.32bb4ff9.chunk.js",
     "static/js/2.32bb4ff9.chunk.js.map": "/my-app/static/js/2.32bb4ff9.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.04b767ef2eae0c9e66577a33300e81e4.js": "/my-app/precache-manifest.04b767ef2eae0c9e66577a33300e81e4.js",
+    "precache-manifest.a5fe6a7366b533dfe5d82ce748734a62.js": "/my-app/precache-manifest.a5fe6a7366b533dfe5d82ce748734a62.js",
     "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.df16f574.chunk.css.map": "/my-app/static/css/main.df16f574.chunk.css.map",
+    "static/css/main.55686e04.chunk.css.map": "/my-app/static/css/main.55686e04.chunk.css.map",
     "static/media/App.css": "/my-app/static/media/throwcap.891cfa8f.jpg",
     "static/media/whats_next.svg": "/my-app/static/media/whats_next.6f1ccb6d.svg"
   }
