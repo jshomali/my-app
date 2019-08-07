@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.521ed955.chunk.css",
-    "main.js": "/my-app/static/js/main.923c2926.chunk.js",
-    "main.js.map": "/my-app/static/js/main.923c2926.chunk.js.map",
-    "runtime~main.js": "/my-app/static/js/runtime~main.6019dd84.js",
-    "runtime~main.js.map": "/my-app/static/js/runtime~main.6019dd84.js.map",
-    "static/js/2.32bb4ff9.chunk.js": "/my-app/static/js/2.32bb4ff9.chunk.js",
-    "static/js/2.32bb4ff9.chunk.js.map": "/my-app/static/js/2.32bb4ff9.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.1279ef610046513617f1e8449ccdd734.js": "/my-app/precache-manifest.1279ef610046513617f1e8449ccdd734.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.521ed955.chunk.css.map": "/my-app/static/css/main.521ed955.chunk.css.map",
-    "static/media/App.css": "/my-app/static/media/throwcap.891cfa8f.jpg",
-    "static/media/whats_next.svg": "/my-app/static/media/whats_next.6f1ccb6d.svg"
+    "main.css": "/mrm-mccann-gm-vpp/static/css/main.d1ff27aa.chunk.css",
+    "main.js": "/mrm-mccann-gm-vpp/static/js/main.4dc4581f.chunk.js",
+    "main.js.map": "/mrm-mccann-gm-vpp/static/js/main.4dc4581f.chunk.js.map",
+    "runtime~main.js": "/mrm-mccann-gm-vpp/static/js/runtime~main.7ea1a10d.js",
+    "runtime~main.js.map": "/mrm-mccann-gm-vpp/static/js/runtime~main.7ea1a10d.js.map",
+    "static/js/2.32bb4ff9.chunk.js": "/mrm-mccann-gm-vpp/static/js/2.32bb4ff9.chunk.js",
+    "static/js/2.32bb4ff9.chunk.js.map": "/mrm-mccann-gm-vpp/static/js/2.32bb4ff9.chunk.js.map",
+    "index.html": "/mrm-mccann-gm-vpp/index.html",
+    "precache-manifest.6176ae30016044fe87ba6caa657cc71e.js": "/mrm-mccann-gm-vpp/precache-manifest.6176ae30016044fe87ba6caa657cc71e.js",
+    "service-worker.js": "/mrm-mccann-gm-vpp/service-worker.js",
+    "static/css/main.d1ff27aa.chunk.css.map": "/mrm-mccann-gm-vpp/static/css/main.d1ff27aa.chunk.css.map",
+    "static/media/App.css": "/mrm-mccann-gm-vpp/static/media/throwcap.891cfa8f.jpg",
+    "static/media/whats_next.svg": "/mrm-mccann-gm-vpp/static/media/whats_next.6f1ccb6d.svg"
   }
 }
